@@ -1,0 +1,11 @@
+#caja_principal{
+    background-color: blue;
+    height: 50px;
+    width: 50px;
+    border-radius: 2px;
+    
+}
+#cajas{
+    background-color: antiquewhite;
+    height: 100px;
+}
